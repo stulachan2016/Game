@@ -1,5 +1,1 @@
-Game Programminng
-Programming Language - Ruby on Rails
-
-
-#######################################
+# term-project-1.1
